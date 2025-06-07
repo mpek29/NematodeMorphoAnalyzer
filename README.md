@@ -38,8 +38,7 @@ nematode_morpho_analyzer/
 ├── assets/                  # Documentation assets (e.g., images)
 │   └── img/
 ├── requirements.txt         # Python dependencies
-├── README.md
-└── LICENSE
+└── README.md
 ```
 ## 🖥️ Sample Output Table
 | Image ID       | Coiling Level | Length (px) | Avg Width (px) | Tail Shape | Area (px²) |
