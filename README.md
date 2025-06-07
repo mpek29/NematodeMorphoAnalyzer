@@ -2,7 +2,7 @@
 
 ## 🧬 Overview
 
-![Main Preview](assets/img/preview.png)
+![Main Preview](assets/img/main.png)
 
 **NematodeMorphoAnalyzer** is an open-source Python project designed to automatically analyze nematode images and extract **morphological features** such as body length, width, and tail shape. The pipeline applies specific procedures depending on the **coiling level** (Level 1, Level 2, or Level 3) assigned to each sample.
 
