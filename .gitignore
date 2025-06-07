@@ -60,9 +60,6 @@ outputs/
 *.csv
 *.tsv
 
-# Image assets (optional if generated)
-assets/img/
-
 # OS files
 .DS_Store
 Thumbs.db
