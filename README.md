@@ -31,8 +31,7 @@ nematode_morpho_analyzer/
 ├── data/                     # Input images and metadata
 │   ├── level1/
 │   ├── level2/
-│   ├── level3/
-│   └── labels.csv
+│   └── level3/
 ├── outputs/                  # Results (CSV files, annotated images)
 ├── src/                      # Main source code
 │   └── main.py               # Main entry point
