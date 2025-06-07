@@ -46,6 +46,5 @@ nematode_morpho_analyzer/
 | sample001.png  | Level 1       | 435         | 28.5           | tapered    | 8120       |
 | sample002.png  | Level 3       | 310         | 35.2           | rounded    | 8904       |
 
-```
 ## 🌟 License
 This project is open-source. Feel free to use, modify, and contribute! 🚀
